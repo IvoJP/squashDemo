@@ -1,3 +1,5 @@
 init commit on main
 source commit 1 after init commit on main
+second commit on main - timestamp will be after commit 1 on source branch
 source commit 2 after second commit on main
+
