@@ -6,3 +6,5 @@ branch1 - commit3
 
 branch2 - commit1
 branch2 - commit2
+
+branch3 - commit1
