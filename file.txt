@@ -8,3 +8,4 @@ branch2 - commit1
 branch2 - commit2
 
 branch3 - commit1
+branch3 - commit2
